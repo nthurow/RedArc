@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "OpenSans";
+    src: url(../fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+.menu.item {
+    margin: 10px;
+}
+
+a.menu.item {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.sectionHeading {
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.sectionBody {
+    padding: 0px 5px 0px 5px;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.clearFloat {
+    clear: both;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.contentContainer {
+    width: 925px;
+    background-color: #ffffff;
+}
+
+.linkContainer {
+    width: 925px;
+    background-color: #e9292f;
+}
+
+.bgWhite {
+    background-color: #ffffff;
+}
+
+.bgRed {
+    background-color: #e9292f;
+}
+
+.bgBlack {
+    background-color: #000000;
+}
+
+.topWhitespace {
+    margin-top: 10px;
+}
+
+.topPadding {
+    padding-top: 10px;
+}
+
+.bottomPadding {
+    padding-bottom: 10px;
+}
+
+.leftPaddingLarge {
+    padding-left: 100px;
+}
+
+.oneThird {
+    float: left;
+    width: 308px;
+}
+
+.openSans {
+    font-family: OpenSans;
+}
+
+.whiteText {
+    color: #ffffff;
+}
