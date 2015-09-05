@@ -26,6 +26,11 @@ a.menu.item {
     text-align: center;
 }
 
+.bodyContent {
+	width: 925px;
+	margin: 0 auto;
+}
+
 .clearFloat {
     clear: both;
 }
